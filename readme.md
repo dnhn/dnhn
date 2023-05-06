@@ -1,6 +1,7 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=dnhn&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dnhn&theme=dark&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnhn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnhn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 |Languages/Libraries/Frameworks|Platforms/Tools|
 |-|-|
