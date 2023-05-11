@@ -10,11 +10,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: dnhn/waka-readme@git-author
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GIT_AUTHOR_NAME: ${{ secrets.GIT_AUTHOR_NAME }}
+          GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 8
+          LANG_COUNT: 10
