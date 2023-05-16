@@ -16,7 +16,7 @@ jobs:
           GIT_AUTHOR_NAME: ${{ secrets.GIT_AUTHOR_NAME }}
           GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 8
