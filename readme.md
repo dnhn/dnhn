@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Total Time: 21 hrs 9 mins
+Total Time: 22 hrs 30 mins
 
-TypeScript   13 hrs 18 mins  ███████████████▓░░░░░░░░░   62.94 %
-SCSS         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-HTML         1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-JavaScript   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Markdown     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-XML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript   16 hrs 5 mins   ██████████████████░░░░░░░   71.48 %
+HTML         2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+SCSS         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+JavaScript   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Markdown     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
