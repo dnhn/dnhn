@@ -1,4 +1,4 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=dnhn&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=dnhn&theme=dark&hide_border=true&border_radius=0&date_format=j%20M[%20Y])
 
 <!--START_SECTION:waka-->
 
