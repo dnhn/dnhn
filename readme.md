@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-Total Time: 22 hrs 26 mins
+Total Time: 21 hrs 31 mins
 
-TypeScript       16 hrs 34 mins  ██████████████████▒░░░░░░   73.86 %
-JavaScript       2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-CSS              1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Blade Template   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-JSON             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-HTML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript       15 hrs 34 mins  ██████████████████░░░░░░░   72.32 %
+JavaScript       2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+CSS              1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+JSON             40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Blade Template   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+HTML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
