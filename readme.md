@@ -19,18 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Total Time: 29 hrs 44 mins
+Total Time: 29 hrs 56 mins
 
-TypeScript   26 hrs 40 mins  ██████████████████████▒░░   89.68 %
-Markdown     52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-MDX          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Astro        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-SCSS         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TypeScript   27 hrs 3 mins   ██████████████████████▓░░   90.35 %
+JSON         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TSQL         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Diff         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
