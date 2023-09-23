@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 22 hrs 9 mins
+Total Time: 24 hrs 43 mins
 
-JavaScript       8 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.04 %
-TypeScript       5 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-HTML             3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-CSS              3 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-TSQL             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-INI              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JavaScript       8 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 %
+TypeScript       7 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   32.09 %
+HTML             3 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+CSS              3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+TSQL             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+INI              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Markdown         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
