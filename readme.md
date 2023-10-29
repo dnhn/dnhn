@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
-Total Time: 41 hrs 35 mins
+Total Time: 39 hrs 48 mins
 
-TypeScript       38 hrs 36 mins  ███████████████████████▒░   92.84 %
-Other            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Ezhil            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-HTML             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-TSConfig         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JSON             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JavaScript       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript       36 hrs 40 mins  ███████████████████████░░   92.13 %
+Other            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Markdown         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Ezhil            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+HTML             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TSConfig         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
