@@ -20,17 +20,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 November 2023 - To: 05 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 1 hr 43 mins
+Total Time: 1 hr 44 mins
 
-JavaScript   38 mins         █████████▒░░░░░░░░░░░░░░░   37.10 %
-Other        18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-TypeScript   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-JSON         17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-XML          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-TSConfig     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+JavaScript   38 mins         █████████▒░░░░░░░░░░░░░░░   37.04 %
+Other        18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+TypeScript   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+JSON         17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+XML          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TSConfig     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
