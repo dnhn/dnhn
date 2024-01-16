@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
-Total Time: 57 mins
+Total Time: 25 mins
 
-Other   57 mins         █████████████████████████   99.91 %
-MDX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   25 mins         █████████████████████████   99.80 %
+MDX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
