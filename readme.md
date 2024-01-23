@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 January 2024 - To: 21 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Total Time: 8 hrs 32 mins
+Total Time: 9 hrs 33 mins
 
-HTML         3 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
-JavaScript   2 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-JSON         1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-CSS          35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+HTML         4 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.44 %
+JavaScript   3 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.02 %
+JSON         1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+CSS          36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
