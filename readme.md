@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 January 2024 - To: 02 February 2024
+From: 27 January 2024 - To: 03 February 2024
 
-Total Time: 6 hrs 58 mins
+Total Time: 5 hrs 40 mins
 
-HTML         4 hrs 16 mins   ███████████████▒░░░░░░░░░   61.31 %
-TypeScript   50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-JavaScript   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-CSS          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-gitconfig    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+HTML         3 hrs 20 mins   ██████████████▓░░░░░░░░░░   58.73 %
+TypeScript   50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+JavaScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+gitconfig    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
