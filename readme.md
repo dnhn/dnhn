@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 May 2024 - To: 18 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-Total Time: 6 hrs 49 mins
+Total Time: 7 hrs 48 mins
 
-TypeScript    5 hrs 12 mins   ███████████████████░░░░░░   76.37 %
-CSS           57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Markdown      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript    6 hrs 13 mins   ████████████████████░░░░░   79.71 %
+CSS           54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Markdown      30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
