@@ -20,17 +20,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 22 hrs 19 mins
+Total Time: 21 hrs 16 mins
 
-TypeScript       20 hrs 1 min    ██████████████████████▒░░   89.76 %
-JSON             1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Less             37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Ruby             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript       19 hrs 5 mins   ██████████████████████▒░░   89.72 %
+JSON             1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Less             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CSS              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
