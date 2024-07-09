@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-Total Time: 20 hrs 6 mins
+Total Time: 23 hrs 18 mins
 
-TypeScript         17 hrs 24 mins  █████████████████████▓░░░   86.60 %
-Python             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-CSS                32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-TSConfig           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-GitIgnore file     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript         18 hrs 21 mins  ███████████████████▓░░░░░   78.81 %
+Python             2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Text               46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Other              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+TSConfig           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+GitIgnore file     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
