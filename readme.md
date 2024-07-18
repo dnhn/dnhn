@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Total Time: 54 hrs 19 mins
+Total Time: 51 hrs 40 mins
 
-TypeScript         31 hrs 3 mins   ██████████████▒░░░░░░░░░░   57.19 %
-Python             14 hrs 10 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-JSON               2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Markdown           1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Makefile           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Text               1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Git                46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Other              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript         27 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.75 %
+Python             13 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+JSON               3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Markdown           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Makefile           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Text               1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Git                45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
