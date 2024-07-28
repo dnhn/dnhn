@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 July 2024 - To: 26 July 2024
+From: 20 July 2024 - To: 27 July 2024
 
-Total Time: 29 hrs 25 mins
+Total Time: 28 hrs 16 mins
 
-TypeScript       15 hrs 4 mins   ████████████▓░░░░░░░░░░░░   51.24 %
-Astro            6 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
-Text             1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-JavaScript       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Other            1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Makefile         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Markdown         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-CSS              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript       14 hrs 28 mins  ████████████▓░░░░░░░░░░░░   51.21 %
+Astro            6 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+Markdown         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other            59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Text             46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Makefile         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+CSS              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
