@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 21 hrs 31 mins
+Total Time: 22 hrs 50 mins
 
-TypeScript    19 hrs 40 mins  ███████████████████████░░   91.42 %
-Other         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Markdown      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Image (svg)   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-CSS           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Git           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Text          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript    21 hrs 29 mins  ███████████████████████▓░   94.03 %
+Other         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Markdown      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Git           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Text          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
