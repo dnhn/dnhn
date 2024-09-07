@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Total Time: 27 hrs 12 mins
+Total Time: 23 hrs 40 mins
 
-TypeScript    22 hrs 22 mins  ████████████████████▓░░░░   82.26 %
-Bash          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-INI           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JSON          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-sh            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-JavaScript    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Vim Script    24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TypeScript    18 hrs 8 mins   ███████████████████░░░░░░   76.62 %
+Bash          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+INI           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+JavaScript    32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+sh            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Markdown      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Vim Script    24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
