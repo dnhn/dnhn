@@ -20,16 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Total Time: 9 hrs 41 mins
+Total Time: 3 hrs 43 mins
 
-TypeScript   9 hrs 33 mins   ████████████████████████▓   98.72 %
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   3 hrs 42 mins   █████████████████████████   99.47 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
