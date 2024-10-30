@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 October 2024 - To: 28 October 2024
+From: 22 October 2024 - To: 29 October 2024
 
-Total Time: 12 hrs 18 mins
+Total Time: 13 hrs 9 mins
 
-TypeScript    11 hrs 11 mins  ██████████████████████▓░░   91.05 %
-CSS           49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Git           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Ruby          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript    11 hrs 59 mins  ██████████████████████▓░░   91.14 %
+CSS           50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Git           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 SCSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
