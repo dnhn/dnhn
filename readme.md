@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Total Time: 39 hrs 35 mins
+Total Time: 39 hrs 18 mins
 
-TypeScript     29 hrs 4 mins   ██████████████████▒░░░░░░   73.44 %
-Astro          5 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-JSON           1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-CSS            1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JavaScript     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-TSConfig       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Text           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript       28 hrs 26 mins  ██████████████████░░░░░░░   72.36 %
+Astro            5 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+JSON             1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+CSS              1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JavaScript       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TSConfig         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Text             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
