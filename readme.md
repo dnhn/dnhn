@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 4 hrs 53 mins
+Total Time: 5 hrs 3 mins
 
-TypeScript       3 hrs 49 mins   ███████████████████▓░░░░░   78.11 %
-Text             27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-JSON             25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Git              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript       4 hrs 3 mins    ████████████████████░░░░░   80.27 %
+Text             28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+JSON             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Git              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
