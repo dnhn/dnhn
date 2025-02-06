@@ -20,11 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 41 mins
 
-No activity tracked
+TypeScript   55 mins         █████████████▓░░░░░░░░░░░   55.12 %
+JavaScript   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+JSON         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+SCSS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
