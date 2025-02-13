@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 February 2025 - To: 11 February 2025
+From: 05 February 2025 - To: 12 February 2025
 
-Total Time: 21 hrs 50 mins
+Total Time: 20 hrs 38 mins
 
-TypeScript   17 hrs 10 mins  ███████████████████▓░░░░░   78.58 %
-JavaScript   3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-CSS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   16 hrs 41 mins  ████████████████████▒░░░░   80.89 %
+JavaScript   2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+.env file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+gitconfig    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
