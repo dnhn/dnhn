@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Total Time: 5 hrs 59 mins
+Total Time: 5 hrs 43 mins
 
-Python             4 hrs 6 mins    █████████████████░░░░░░░░   68.59 %
-TypeScript         1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-JSON               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Text               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JavaScript         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Bash               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript       2 hrs 58 mins   █████████████░░░░░░░░░░░░   52.04 %
+Python           2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.01 %
+JSON             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
