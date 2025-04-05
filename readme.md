@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 7 hrs 55 mins
+Total Time: 6 hrs 52 mins
 
-TypeScript                    4 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.10 %
-JSON                          1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-Python                        44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-TSConfig                      27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-TOML                          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Markdown                      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-JavaScript                    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Text                          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+TypeScript                    3 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.43 %
+JSON                          1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Python                        50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+TSConfig                      27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+TOML                          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JavaScript                    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Text                          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Markdown                      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
