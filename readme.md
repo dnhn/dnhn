@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Total Time: 8 hrs 49 mins
+Total Time: 12 hrs 13 mins
 
-TypeScript         4 hrs 33 mins   █████████████░░░░░░░░░░░░   51.76 %
-JSON               1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Python             43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Makefile           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Text               21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Prettier File      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-XML                16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-YAML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript         9 hrs 10 mins   ██████████████████▓░░░░░░   75.03 %
+JSON               1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Prettier File      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+XML                16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+YAML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Text               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JavaScript         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Ruby               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
