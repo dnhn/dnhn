@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Total Time: 33 hrs 29 mins
+Total Time: 33 hrs 11 mins
 
-TypeScript       31 hrs 59 mins  ████████████████████████░   95.53 %
-JSON             1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript       31 hrs 23 mins  ███████████████████████▓░   94.57 %
+JSON             1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Python           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-ESLint File      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 .env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+ESLint File      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
