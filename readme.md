@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 April 2025 - To: 22 April 2025
+From: 16 April 2025 - To: 23 April 2025
 
-Total Time: 29 hrs 20 mins
+Total Time: 26 hrs 40 mins
 
-TypeScript         23 hrs 35 mins  ████████████████████░░░░░   80.43 %
-Python             2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-JSON               1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Markdown           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Text               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-zsh                18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-ESLint File        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JavaScript         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript         20 hrs 34 mins  ███████████████████▒░░░░░   77.14 %
+Python             3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JSON               1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Markdown           1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Text               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+zsh                18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+ESLint File        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
