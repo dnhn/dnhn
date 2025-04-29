@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 19 hrs 23 mins
+Total Time: 23 hrs 11 mins
 
-TypeScript         6 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
-Python             4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Markdown           2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Astro              1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-JSON               1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Text               54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Other              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-JavaScript         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript         7 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
+Python             5 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+JSON               1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Astro              1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown           1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Docker             1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+YAML               1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Text               46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
