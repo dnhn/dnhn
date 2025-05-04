@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2025 - To: 02 May 2025
+From: 26 April 2025 - To: 03 May 2025
 
-Total Time: 16 hrs 9 mins
+Total Time: 20 hrs 47 mins
 
-Python              3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-YAML                3 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-TypeScript          2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Docker              1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Astro               1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-JavaScript          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Markdown            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Ruby                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Astro               6 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+YAML                3 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+Python              3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+TypeScript          2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Docker              1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+TSConfig            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+CSS                 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Ruby                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
