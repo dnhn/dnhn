@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Total Time: 27 hrs 47 mins
+Total Time: 25 hrs 29 mins
 
-TypeScript          21 hrs 46 mins  ███████████████████▓░░░░░   78.34 %
-Python              3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-JSON                58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Other               50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Text                19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-YAML                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JavaScript          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Makefile            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript          17 hrs 26 mins  █████████████████░░░░░░░░   68.42 %
+Python              3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Other               2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+JSON                56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Text                19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+YAML                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JavaScript          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Makefile            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
