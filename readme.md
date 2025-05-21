@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 May 2025 - To: 19 May 2025
+From: 13 May 2025 - To: 20 May 2025
 
-Total Time: 23 hrs 8 mins
+Total Time: 25 hrs
 
-TypeScript          15 hrs 40 mins  █████████████████░░░░░░░░   67.76 %
-Python              4 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-Other               1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Text                40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JSON                9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-YAML                8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Makefile            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Requirements.txt    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript          20 hrs 5 mins   ████████████████████░░░░░   80.39 %
+Python              2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Other               1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON                25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Text                22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Markdown            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Requirements.txt    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+DockerIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
