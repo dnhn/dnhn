@@ -5,7 +5,7 @@
 <summary><strong>🛠 My Expertise</strong></summary>
 
 [<img width=32 height=32 alt="Astro" title="Astro" src=https://cdn.simpleicons.org/astro>](https://astro.build)
-[<img width=32 height=32 alt="AWS" title="AWS" src=https://cdn.simpleicons.org/amazonwebservices>](https://aws.amazon.com)
+[<img width=32 height=32 alt="AWS" title="AWS" src="https://skillicons.dev/icons?i=aws">](https://aws.amazon.com)
 [<img width=32 height=32 alt="Bootstrap" title="Bootstrap" src=https://cdn.simpleicons.org/bootstrap>](https://getbootstrap.com)
 [<img width=32 height=32 alt="Cloudflare" title="Cloudflare" src=https://cdn.simpleicons.org/cloudflare>](https://cloudflare.com)
 [<img width=32 height=32 alt="CSS Modules" title="CSS Modules" src=https://cdn.simpleicons.org/cssmodules>](https://github.com/css-modules)
