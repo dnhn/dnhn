@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 26 hrs 54 mins
+Total Time: 20 hrs 19 mins
 
-TypeScript        22 hrs          ████████████████████▒░░░░   81.78 %
-JSON              2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Text              1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Markdown          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Groovy            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-.env file         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-JavaScript        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript        15 hrs 12 mins  ██████████████████▓░░░░░░   74.88 %
+JSON              2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Text              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Markdown          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Groovy            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+gitconfig         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+.env file         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
