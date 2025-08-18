@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 20 hrs 19 mins
+Total Time: 21 hrs 59 mins
 
-TypeScript        15 hrs 12 mins  ██████████████████▓░░░░░░   74.88 %
-JSON              2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Text              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Markdown          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Groovy            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-gitconfig         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-.env file         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JavaScript        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript        15 hrs 22 mins  █████████████████▒░░░░░░░   69.91 %
+JSON              2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Bash              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Text              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Groovy            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Makefile          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+gitconfig         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
