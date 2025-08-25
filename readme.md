@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-Total Time: 22 hrs 2 mins
+Total Time: 21 hrs 51 mins
 
-TypeScript       15 hrs 18 mins  █████████████████▒░░░░░░░   69.42 %
-Bash             2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-JSON             1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Makefile         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JavaScript       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-CSS              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-dosini           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TypeScript       14 hrs 58 mins  █████████████████░░░░░░░░   68.51 %
+JSON             2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Bash             1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Makefile         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JavaScript       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Text             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
