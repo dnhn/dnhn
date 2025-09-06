@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 26 hrs 27 mins
+Total Time: 26 hrs 59 mins
 
-TypeScript       19 hrs 15 mins  ██████████████████▒░░░░░░   72.78 %
-Bash             1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JSON             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Text             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JavaScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-CSS              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-HTML             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript       20 hrs 16 mins  ██████████████████▓░░░░░░   75.10 %
+Bash             1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Markdown         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON             40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Text             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+JavaScript       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+HTML             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Astro            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
