@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-Total Time: 8 hrs 56 mins
+Total Time: 6 hrs 57 mins
 
-TypeScript     8 hrs 29 mins   ███████████████████████▓░   94.83 %
-Markdown       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-.env file      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript     6 hrs 46 mins   ████████████████████████▒   97.43 %
+Markdown       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
