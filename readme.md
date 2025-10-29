@@ -61,15 +61,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 October 2025 - To: 27 October 2025
+From: 21 October 2025 - To: 28 October 2025
 
-Total Time: 3 hrs 2 mins
+Total Time: 3 hrs 59 mins
 
-TypeScript    2 hrs 22 mins   ███████████████████▒░░░░░   77.80 %
-Markdown      18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-JavaScript    15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-HTML          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript    3 hrs 18 mins   ████████████████████▓░░░░   83.04 %
+Markdown      18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+JavaScript    15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+HTML          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
