@@ -37,7 +37,7 @@
 [<img width=32 height=32 alt="TypeScript" title="TypeScript" src=https://cdn.simpleicons.org/typescript>](https://typescriptlang.org)
 [<img width=32 height=32 alt="Vercel" title="Vercel" src=https://cdn.simpleicons.org/vercel>](https://vercel.com)
 [<img width=32 height=32 alt="Vim" title="Vim" src=https://cdn.simpleicons.org/vim>](https://vim.org)
-[<img width=32 height=32 alt="Vite" title="Vite" src=https://cdn.simpleicons.org/vite>](https://vitejs.dev)
+[<img width=32 height=32 alt="Vite" title="Vite" src=https://cdn.simpleicons.org/vite>](https://vite.dev)
 [<img width=32 height=32 alt="WebStorm" title="WebStorm" src=https://cdn.simpleicons.org/webstorm>](https://jetbrains.com/webstorm)
 
 </details>
