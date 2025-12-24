@@ -45,16 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-Total Time: 13 hrs 54 mins
+Total Time: 15 hrs 52 mins
 
-TypeScript   8 hrs 43 mins   ███████████████▓░░░░░░░░░   62.71 %
-HTML         5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.10 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   9 hrs 52 mins   ███████████████▓░░░░░░░░░   62.23 %
+HTML         5 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   36.98 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
