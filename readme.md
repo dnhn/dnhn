@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Total Time: 23 hrs 39 mins
+Total Time: 23 hrs 34 mins
 
-TypeScript       13 hrs 57 mins  ██████████████▓░░░░░░░░░░   58.99 %
-HTML             8 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   36.89 %
-CSS              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JSON             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript       13 hrs 13 mins  ██████████████░░░░░░░░░░░   56.06 %
+HTML             9 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   39.79 %
+CSS              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JSON             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 gitconfig        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 TSConfig         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
