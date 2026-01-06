@@ -45,18 +45,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 11 hrs 4 mins
+Total Time: 7 hrs 46 mins
 
-TypeScript       6 hrs 34 mins   ███████████████░░░░░░░░░░   59.42 %
-HTML             2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Markdown         1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-JavaScript       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-zsh              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript       4 hrs 35 mins   ██████████████▓░░░░░░░░░░   59.09 %
+HTML             1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Markdown         1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+JSON             32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Text             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+zsh              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
