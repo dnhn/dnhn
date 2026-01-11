@@ -1,6 +1,3 @@
-<!-- ![](https://streak-stats.demolab.com?user=dnhn&theme=dark&hide_border=true&border_radius=0&date_format=j%20M[%20Y]) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnhn&theme=dark)
-
 <details>
 <summary><strong>🛠 My Expertise</strong></summary>
 
