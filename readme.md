@@ -42,18 +42,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 5 hrs 55 mins
+Total Time: 6 hrs 13 mins
 
-TypeScript       4 hrs 6 mins    █████████████████▒░░░░░░░   69.26 %
-JSON             1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Text             23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-HTML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript       4 hrs 6 mins    ████████████████▓░░░░░░░░   66.06 %
+JSON             1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Text             23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+JavaScript       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+HTML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Swift            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-C++              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
