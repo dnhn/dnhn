@@ -42,18 +42,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Total Time: 6 hrs 46 mins
+Total Time: 10 hrs 18 mins
 
-TypeScript       3 hrs 50 mins   ██████████████▒░░░░░░░░░░   56.72 %
-Astro            1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-JSON             40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-JavaScript       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-CSS              20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Astro            4 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
+TypeScript       3 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
+CSS              40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JavaScript       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
