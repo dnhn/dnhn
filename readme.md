@@ -42,18 +42,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
-Total Time: 48 hrs 4 mins
+Total Time: 45 hrs 34 mins
 
-Astro            40 hrs 21 mins        █████████████████████░░░░   83.95 %
-Markdown         1 hr 46 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-TypeScript       1 hr 25 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other            1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Image (svg)      57 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON             40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Svelte           39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JavaScript       24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Astro            36 hrs 24 mins        ████████████████████░░░░░   79.88 %
+Markdown         3 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+TypeScript       1 hr 21 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Other            1 hr 7 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Svelte           50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Image (svg)      48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON             40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JavaScript       25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
