@@ -42,18 +42,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 March 2026 - To: 28 March 2026
+From: 22 March 2026 - To: 29 March 2026
 
-Total Time: 24 hrs 23 mins
+Total Time: 27 hrs 38 mins
 
-TypeScript       10 hrs 27 mins        ██████████▓░░░░░░░░░░░░░░   42.86 %
-Markdown         3 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Other            2 hrs 52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Astro            2 hrs 1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-JSON             1 hr 28 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Python           1 hr 16 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-YAML             46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Bash             35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+TypeScript       9 hrs 57 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
+Python           4 hrs 22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Markdown         3 hrs 29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Other            3 hrs 7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+JSON             1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+YAML             1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Astro            1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Makefile         51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
