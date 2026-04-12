@@ -42,18 +42,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 April 2026 - To: 10 April 2026
+From: 04 April 2026 - To: 11 April 2026
 
-Total Time: 45 hrs 45 mins
+Total Time: 45 hrs 35 mins
 
-TypeScript       15 hrs 57 mins        ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Astro            11 hrs 31 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Python           7 hrs 53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Markdown         2 hrs 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-JSON             2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Other            1 hr 39 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-CSS              44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-.env file        40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript       16 hrs 46 mins        █████████▒░░░░░░░░░░░░░░░   36.80 %
+Astro            12 hrs 7 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Python           6 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Markdown         2 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JSON             2 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other            1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+CSS              47 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+.env file        33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
