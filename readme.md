@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 27 hrs 43 mins
+Total Time: 24 hrs 35 mins
 
-TypeScript       21 hrs 47 mins        ███████████████████▓░░░░░   78.60 %
-Python           1 hr 48 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Swift            48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Markdown         47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-JSON             40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Other            39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Text             35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JavaScript       20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript       18 hrs 37 mins        ███████████████████░░░░░░   75.73 %
+Python           1 hr 48 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+JSON             50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Swift            48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Markdown         40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Text             35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Other            29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JavaScript       20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
