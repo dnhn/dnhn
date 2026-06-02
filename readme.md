@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Total Time: 46 hrs 21 mins
+Total Time: 45 hrs 6 mins
 
-TypeScript                 20 hrs 12 mins        ███████████░░░░░░░░░░░░░░   43.60 %
-Markdown                   7 hrs 45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-PHP                        5 hrs 57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Other                      3 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-CSS                        3 hrs 25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Python                     1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JavaScript                 49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Text                       40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript                 17 hrs 44 mins        ██████████░░░░░░░░░░░░░░░   39.35 %
+Markdown                   7 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+PHP                        6 hrs 3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Other                      4 hrs 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+CSS                        3 hrs 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Python                     1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Nginx configuration file   49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript                 49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
