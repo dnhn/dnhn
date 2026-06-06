@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 May 2026 - To: 04 June 2026
+From: 29 May 2026 - To: 05 June 2026
 
-Total Time: 36 hrs 54 mins
+Total Time: 35 hrs 33 mins
 
-TypeScript                 8 hrs 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-PHP                        7 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Markdown                   5 hrs 46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other                      3 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-CSS                        3 hrs 35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-JSON                       2 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Python                     1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-JavaScript                 54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+TypeScript                 8 hrs 8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+PHP                        5 hrs 51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Markdown                   4 hrs 29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Other                      3 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+CSS                        2 hrs 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JSON                       2 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Python                     2 hrs                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Makefile                   1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
