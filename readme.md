@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 June 2026 - To: 27 June 2026
+From: 21 June 2026 - To: 28 June 2026
 
-Total Time: 35 hrs 31 mins
+Total Time: 37 hrs 13 mins
 
-TypeScript                    23 hrs 48 mins        ████████████████▓░░░░░░░░   67.01 %
-CSS                           4 hrs 55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Markdown                      2 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JSON                          2 hrs 29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-conf                          44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-zsh                           13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JavaScript                    10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-YAML                          6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript                    24 hrs 7 mins         ████████████████▒░░░░░░░░   64.81 %
+CSS                           5 hrs 10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Markdown                      3 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JSON                          2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+conf                          44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Bash                          22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+zsh                           13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JavaScript                    10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
