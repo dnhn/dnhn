@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 July 2026 - To: 23 July 2026
+From: 17 July 2026 - To: 24 July 2026
 
-Total Time: 33 hrs 26 mins
+Total Time: 26 hrs 2 mins
 
-TypeScript                    23 hrs 50 mins        █████████████████▓░░░░░░░   71.30 %
-Markdown                      4 hrs 59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-JSON                          1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Other                         58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-CSS                           36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Bash                          26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-.env file                     14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Swift                         13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript                    18 hrs 8 mins         █████████████████▒░░░░░░░   69.67 %
+Markdown                      3 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+JSON                          1 hr 59 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+CSS                           47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Bash                          26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+.env file                     14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Swift                         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JavaScript                    5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
