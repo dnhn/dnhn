@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 20 hrs 30 mins
+Total Time: 23 hrs 55 mins
 
-TypeScript        9 hrs 17 mins         ███████████▒░░░░░░░░░░░░░   45.32 %
-Markdown          4 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-JSON              3 hrs                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Astro             2 hrs 20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-CSS               23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text              20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-CocoaPods         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JavaScript        11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript        12 hrs 39 mins        █████████████▒░░░░░░░░░░░   52.87 %
+Markdown          4 hrs 58 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+JSON              2 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Astro             2 hrs 15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+CSS               23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Text              20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+CocoaPods         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other             11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
