@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
-Total Time: 38 hrs 13 mins
+Total Time: 38 hrs 16 mins
 
-TypeScript       23 hrs 45 mins        ███████████████▓░░░░░░░░░   62.16 %
-Markdown         8 hrs 35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Other            3 hrs 14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-CSS              41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JSON             39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript       23 hrs 22 mins        ███████████████▒░░░░░░░░░   61.09 %
+Markdown         8 hrs 26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
+Other            3 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+CSS              1 hr 28 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 .env file        34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JSON             31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Image (svg)      20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
