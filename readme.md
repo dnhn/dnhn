@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 28 hrs 38 mins
+Total Time: 24 hrs 36 mins
 
-TypeScript   14 hrs 3 mins         ████████████▒░░░░░░░░░░░░   49.06 %
-Markdown     7 hrs 22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
-Other        4 hrs 2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Astro        53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-CSS          41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Text         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-JavaScript   29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-JSON         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TypeScript   11 hrs 27 mins        ███████████▓░░░░░░░░░░░░░   46.55 %
+Markdown     7 hrs 27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+Other        4 hrs 16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+JavaScript   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON         25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Astro        12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+gitignore    8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Text         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
