@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 September 2026 - To: 11 September 2026
+From: 05 September 2026 - To: 12 September 2026
 
-Total Time: 21 hrs 14 mins
+Total Time: 14 hrs 44 mins
 
-TypeScript   8 hrs 53 mins         ██████████▒░░░░░░░░░░░░░░   41.86 %
-Markdown     6 hrs 6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.74 %
-Other        5 hrs 6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-JavaScript   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-gitconfig    14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-gitignore    8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Text         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other        4 hrs 42 mins         ████████░░░░░░░░░░░░░░░░░   31.92 %
+Markdown     4 hrs 35 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+TypeScript   4 hrs 13 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
+JavaScript   34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+gitconfig    14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+gitignore    8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
