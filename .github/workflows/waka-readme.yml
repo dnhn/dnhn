@@ -16,6 +16,4 @@ jobs:
           SHOW_TITLE: true
           CODE_LANG: python
           LANG_COUNT: 8
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
           COMMIT_MESSAGE: Update waka-readme
